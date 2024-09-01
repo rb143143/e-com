@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/e-com/static/css/main.fdafbedb.css",
+    "main.js": "/e-com/static/js/main.75dfa063.js",
+    "static/css/293.4a66a4f3.chunk.css": "/e-com/static/css/293.4a66a4f3.chunk.css",
+    "static/js/293.4b9d5956.chunk.js": "/e-com/static/js/293.4b9d5956.chunk.js",
+    "static/js/453.0b71bf06.chunk.js": "/e-com/static/js/453.0b71bf06.chunk.js",
+    "static/js/766.277aadde.chunk.js": "/e-com/static/js/766.277aadde.chunk.js",
+    "static/media/banner.jpg": "/e-com/static/media/banner.b783015fd7b73409179a.jpg",
+    "static/media/slide-2.png": "/e-com/static/media/slide-2.37492f6c2715182edca2.png",
+    "static/media/slide-1.png": "/e-com/static/media/slide-1.ab34f22bd9bf81f6c7b7.png",
+    "static/media/slide-4.png": "/e-com/static/media/slide-4.745d65ab674490812cf7.png",
+    "static/media/banner-2.png": "/e-com/static/media/banner-2.9dc95b12b9160e169f85.png",
+    "static/media/discount-2.png": "/e-com/static/media/discount-2.bfb26a60202717badf6b.png",
+    "static/media/discount-3.png": "/e-com/static/media/discount-3.210d7027b285de8850fb.png",
+    "static/media/cat1.png": "/e-com/static/media/cat1.cf1837781fba7bb631e0.png",
+    "static/media/cat4.png": "/e-com/static/media/cat4.e1afab6e3b978925783f.png",
+    "static/media/discount-1.png": "/e-com/static/media/discount-1.ec5915e86992c68a7677.png",
+    "static/media/banner-1.png": "/e-com/static/media/banner-1.4e4b0b361a056de42cec.png",
+    "index.html": "/e-com/index.html",
+    "main.fdafbedb.css.map": "/e-com/static/css/main.fdafbedb.css.map",
+    "main.75dfa063.js.map": "/e-com/static/js/main.75dfa063.js.map",
+    "293.4a66a4f3.chunk.css.map": "/e-com/static/css/293.4a66a4f3.chunk.css.map",
+    "293.4b9d5956.chunk.js.map": "/e-com/static/js/293.4b9d5956.chunk.js.map",
+    "453.0b71bf06.chunk.js.map": "/e-com/static/js/453.0b71bf06.chunk.js.map",
+    "766.277aadde.chunk.js.map": "/e-com/static/js/766.277aadde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdafbedb.css",
+    "static/js/main.75dfa063.js"
+  ]
+}
